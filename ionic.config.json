@@ -1,0 +1,7 @@
+{
+  "name": "massages_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
